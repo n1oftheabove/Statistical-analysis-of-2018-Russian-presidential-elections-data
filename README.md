@@ -4,4 +4,6 @@ I performed a rough and short analysis of the preliminary results of the Russian
 
 When plotting the result in percent for a candidate or party against the voter turnout in percent for every election site, possible irregularities can be visualized as deviations from a 2-dimensional gauss form. A statistical clustering of points near the 100% turnout/100% votes-corner of the diagram for example is regarded as a hint for ballot stuffing (as an appropriate scientific publication, see for example *Statistical detection of systematic election irregularities* by Klimek et. al, PNAS, 2012, [link](http://www.pnas.org/content/109/41/16469)).
 
-My first analysis revealed irregularities not only for the results of the winning candidate Putin Vladimir Vladimirovich, but also for at least one other candidate (Grudinin Pavel Nikolayevich)
+My first analysis revealed irregularities not only for the results of the winning candidate Putin Vladimir Vladimirovich, but also for at least one other candidate (Grudinin Pavel Nikolayevich).
+
+As said, this is a quick-and-dirty analysis. A more thorough look into the data and more so an analysis of the final officially released data is necessary to draw proper conclusions.
