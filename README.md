@@ -8,4 +8,4 @@ My first analysis revealed irregularities not only for the results of the winnin
 
 As said, this is a quick-and-dirty analysis. A more thorough look into the data and more so an analysis of the final officially released data is necessary to draw proper conclusions.
 
-![text](../img/putin_vs_turnout.jpg) ![text](../img/grudinin_vs_turnout.jpg)
+![text](../img/putin_vs_turnout.png) ![text](../img/grudinin_vs_turnout.png)
