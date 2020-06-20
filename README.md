@@ -7,3 +7,5 @@ When plotting the result in percent for a candidate or party against the voter t
 My first analysis revealed irregularities not only for the results of the winning candidate Putin Vladimir Vladimirovich, but also for at least one other candidate (Grudinin Pavel Nikolayevich).
 
 As said, this is a quick-and-dirty analysis. A more thorough look into the data and more so an analysis of the final officially released data is necessary to draw proper conclusions.
+
+![text](../img/putin_vs_turnout.jpg) ![text](../img/grudinin_vs_turnout.jpg)
